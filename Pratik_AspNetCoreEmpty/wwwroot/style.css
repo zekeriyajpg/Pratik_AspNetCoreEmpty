@@ -1,0 +1,5 @@
+﻿/* wwwroot/style.css */
+body {
+    font-family: Arial, sans-serif; /* Arial fontu, diğer sans-serif fontlar yedeğiyle kullanılır */
+    background-color: #f4f4f9; /* Sayfa arka planını açık bir gri tonuyla ayarlar */
+}
